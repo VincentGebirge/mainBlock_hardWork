@@ -1,0 +1,15 @@
+/Users/vincentgebirge/Desktop/Array's/Char/mainBlock_hardWork/bin/Debug/net6.0/mainBlock_hardWork
+/Users/vincentgebirge/Desktop/Array's/Char/mainBlock_hardWork/bin/Debug/net6.0/mainBlock_hardWork.deps.json
+/Users/vincentgebirge/Desktop/Array's/Char/mainBlock_hardWork/bin/Debug/net6.0/mainBlock_hardWork.runtimeconfig.json
+/Users/vincentgebirge/Desktop/Array's/Char/mainBlock_hardWork/bin/Debug/net6.0/mainBlock_hardWork.dll
+/Users/vincentgebirge/Desktop/Array's/Char/mainBlock_hardWork/bin/Debug/net6.0/mainBlock_hardWork.pdb
+/Users/vincentgebirge/Desktop/Array's/Char/mainBlock_hardWork/obj/Debug/net6.0/mainBlock_hardWork.csproj.AssemblyReference.cache
+/Users/vincentgebirge/Desktop/Array's/Char/mainBlock_hardWork/obj/Debug/net6.0/mainBlock_hardWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vincentgebirge/Desktop/Array's/Char/mainBlock_hardWork/obj/Debug/net6.0/mainBlock_hardWork.AssemblyInfoInputs.cache
+/Users/vincentgebirge/Desktop/Array's/Char/mainBlock_hardWork/obj/Debug/net6.0/mainBlock_hardWork.AssemblyInfo.cs
+/Users/vincentgebirge/Desktop/Array's/Char/mainBlock_hardWork/obj/Debug/net6.0/mainBlock_hardWork.csproj.CoreCompileInputs.cache
+/Users/vincentgebirge/Desktop/Array's/Char/mainBlock_hardWork/obj/Debug/net6.0/mainBlock_hardWork.dll
+/Users/vincentgebirge/Desktop/Array's/Char/mainBlock_hardWork/obj/Debug/net6.0/refint/mainBlock_hardWork.dll
+/Users/vincentgebirge/Desktop/Array's/Char/mainBlock_hardWork/obj/Debug/net6.0/mainBlock_hardWork.pdb
+/Users/vincentgebirge/Desktop/Array's/Char/mainBlock_hardWork/obj/Debug/net6.0/mainBlock_hardWork.genruntimeconfig.cache
+/Users/vincentgebirge/Desktop/Array's/Char/mainBlock_hardWork/obj/Debug/net6.0/ref/mainBlock_hardWork.dll
