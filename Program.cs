@@ -25,15 +25,15 @@ void array(string[] stringArray)
 string[] symbol(string[] stringArray)
 {
   int n = 0;
-  for (int i = 0; i < stringArray.Length; i++)
-  {
-    if (stringArray[i].Length <= 3)
+  for (int i = 0; i < stringArray.Length; i++) //здемь проверяем, сколько 
+  {                                             //элементов в массиве 
+    if (stringArray[i].Length <= 3)             //соответствуют условию
       n++;
   }
-  string[] newArray = new string[n];
-  int j = 0;
-  for (int i = 0; i < stringArray.Length; i++)
-  {
+  string[] newArray = new string[n];            //заполняем новый массив
+  int j = 0;                                 //отсортированными элементами
+  for (int i = 0; i < stringArray.Length; i++)  //и возвращаем новый массив из
+  {                                             //функции
     if (stringArray[i].Length <= 3)
     {
       newArray[j] = stringArray[i];
